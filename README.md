@@ -1,3 +1,3 @@
 # haskell-concurrency
 
-concurrent haskell
+Exercises in concurrent haskell.
