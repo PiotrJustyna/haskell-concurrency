@@ -32,7 +32,7 @@ RUN apt-get update \
 # Install latest GHCup in the non-root user home
 USER $USERNAME
 
-ARG GHC_VERSION="9.2.4"
+ARG GHC_VERSION="9.2.5"
 
 ENV GHCUP_CURL_OPTS="-k"
 ENV BOOTSTRAP_HASKELL_NONINTERACTIVE="1"
