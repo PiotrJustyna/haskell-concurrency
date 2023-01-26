@@ -12,8 +12,6 @@ bug-reports:    https://github.com/PiotrJustyna/haskell-concurrency/issues
 author:         Piotr Justyna
 maintainer:     piotr.justyna@gmail.com
 copyright:      2023 Piotr Justyna
-license:        BSD3
-license-file:   LICENSE
 build-type:     Simple
 
 source-repository head

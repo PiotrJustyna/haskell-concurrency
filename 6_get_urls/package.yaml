@@ -1,7 +1,6 @@
 name:                geturls
 version:             0.1.0.0
 github:              "PiotrJustyna/haskell-concurrency"
-license:             BSD3
 author:              "Piotr Justyna"
 maintainer:          "piotr.justyna@gmail.com"
 copyright:           "2023 Piotr Justyna"
