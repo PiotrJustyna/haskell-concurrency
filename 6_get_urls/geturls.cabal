@@ -20,6 +20,7 @@ source-repository head
 
 library
   exposed-modules:
+    Async
     GetURL
     GetUrls1
   other-modules:

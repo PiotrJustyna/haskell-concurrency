@@ -1,6 +1,4 @@
-module GetUrls1
-    ( getUrls
-    ) where
+module GetUrls1 (getUrls) where
 
 import Control.Concurrent
 import Data.ByteString as B
